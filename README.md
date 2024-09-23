@@ -35,11 +35,19 @@ I'm a **Network Engineering** student with a passion for **software development*
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite">
 </p>
 
+## 🖥️ Other Interests:
+- **Android Custom ROMs**: Exploring and building custom ROMs for enhanced Android experiences.
+- **Linux Ricing**: Focusing on ricing my Fedora setup for aesthetics and efficiency.
 
 ## 📫 Let's connect:
 - [GitHub](https://github.com/AmarasingheV)
 - [LinkedIn](https://www.linkedin.com/in/Viruna-Amarasighe)
 
 ---
-
+## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmarasingheV&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarasingheV&layout=compact&theme=radical)
+
+
+## 💬 Quote:
+*"Be loyal to what matters." – Arthur Morgan*
