@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Amarasinghe (a.k.a err0r)!
 
-<!--
-**AmarasingheV/AmarasingheV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year **Network Engineering** student with a passion for **software development**, **cloud computing**, and **cybersecurity**. Here's a glimpse into my journey:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying **AWS Cloud** and **Linux**.
+- 🌱 Learning and working with **Python**, **Java**, **PHP**, and **SQL**.
+- ⚡ Fun fact: I'm transitioning into **cybersecurity** in my upcoming years!
+- 💡 Interested in **network automation**, **web development**, and **ethical hacking**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills:
+- **Programming Languages:** Python, Java, PHP, SQL, JavaScript (HTML/CSS)
+- **Cloud:** AWS (S3, EC2, VPCs)
+- **Networking Tools:** Wireshark, Nmap, Scapy
+- **Cybersecurity:** Kali Linux, Burp Suite, Linux Hardening
+
+## 📫 Let's connect:
+- [GitHub](https://github.com/err0r)
+- [LinkedIn](https://www.linkedin.com/in/viruna-amarasighe)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmarasingheV&show_icons=true&theme=radical)
