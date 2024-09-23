@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Amarasinghe (a.k.a err0r)!
+# 👋 Hey, I'm V.Amarasinghe (a.k.a err0r)!
 
 I'm a **Network Engineering** student with a passion for **software development**, **cloud computing**, and **cybersecurity**. Here's a glimpse into my journey:
 
