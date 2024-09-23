@@ -14,8 +14,8 @@ I'm a second-year **Network Engineering** student with a passion for **software 
 - **Cybersecurity:** Kali Linux, Burp Suite, Linux Hardening
 
 ## 📫 Let's connect:
-- [GitHub](https://github.com/err0r)
-- [LinkedIn](https://www.linkedin.com/in/viruna-amarasighe)
+- [GitHub](https://github.com/AmarasingheV)
+- [LinkedIn](https://www.linkedin.com/in/Viruna-Amarasighe)
 
 ---
 
