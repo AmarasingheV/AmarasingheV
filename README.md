@@ -2,7 +2,7 @@
 
 I'm a **Network Engineering** student with a passion for **software development**, **cloud computing**, and **cybersecurity**. Here's a glimpse into my journey:
 
-- 🔭 I’m currently studying **Java** and **Linux**.
+- 🔭 I’m currently studying **Network Engineering** and **Linux(Server)**.
 - 🌱 Learning and working with **Python**, **Java**, **PHP**, and **SQL**.
 - ⚡ Fun fact: I'm transitioning into **cybersecurity** in my upcoming years!
 - 💡 Interested in **network automation**, **web development**, and **ethical hacking**.
