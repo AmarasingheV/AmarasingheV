@@ -4,7 +4,6 @@ I'm a **Network Engineering** student with a passion for **software development*
 
 - 🔭 I’m currently studying **Network Engineering** and **Linux(Server)**.
 - 🌱 Learning and working with **Python**, **Java**, **PHP**, and **SQL**.
-- ⚡ Fun fact: I'm transitioning into **cybersecurity** in my upcoming years!
 - 💡 Interested in **network automation**, **web development**, and **ethical hacking**.
 
 ## 🛠️ Tech Stack:
